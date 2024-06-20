@@ -1,0 +1,57 @@
+body{
+    background-color: bisque;
+}
+
+.liste1{
+background-color: white;
+padding: 16px;
+margin: 20px;
+border-radius: 20px;
+
+}
+.image-container{
+    margin-left: 400px;
+}
+
+img{
+    border-radius: 20px;
+
+}
+
+.instruction{
+    background-color: white;
+padding: 16px;
+margin: 20px;
+border-radius: 20px;
+}
+
+.num3 h1{
+    color:brown ;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 60px;
+}
+table{
+     width:100%;
+}
+
+.instruction h2{
+
+color: brown;
+font-size: 42PX;
+}
+
+
+
+
+
+
+
+
+
+.liste1 h2 {
+    color: purple;
+}
+.list2 h1{
+    color:brown;
+}
